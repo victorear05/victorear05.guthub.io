@@ -1,2 +1,2 @@
-# victorear05.guthub.io
+# victorear05.github.io
 Minha GitHub Page 
