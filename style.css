@@ -43,24 +43,19 @@ h1{
     width: 99vw;
 }
 
-#conteudo{
-    list-style: none;
-    padding: 0.2vw;
-}
-
-#conteudo li{
-    display: inline;
-}
-
 #imagem{
-    display: inline-block;
-    text-decoration: none;
+    float: left;
 }
 
-#conteudo li p{
-    display: inline-block;
-    text-decoration: none;
+.coluna{
+    margin: auto;
+    column-count: 2;
 }
+
+#sobre_mim div{
+    margin-top: 1vw;
+}
+
 
 #formacao{
     background-color: white;
