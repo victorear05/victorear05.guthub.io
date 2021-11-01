@@ -6,10 +6,10 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    background: rgb(7, 0, 70);
 }
 
 body{
-    background: rgb(7, 0, 70);
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
 }
