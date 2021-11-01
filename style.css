@@ -14,63 +14,9 @@ body{
     font-weight: bold;
 }
 
-#menu_de_cima{
-    list-style: none;
-    padding: 0.2vw;
-    margin-left: 70vw;
-}
-
-#menu_de_cima li{
-    display: inline;
-}
-
-#menu_de_cima li a{
-    color: white;
-    display: inline-block;
-    text-decoration: none;
-    padding: 0.8vw;
-}
-
 h1{
     font-weight: bold;
     font-size: 50pt;
     font-family: 'Bungee', cursive;
     text-align: center;
 }
-
-#apresentacao {
-    height: 50vw;
-    width: 99vw;
-}
-
-#imagem{
-    float: left;
-}
-
-.coluna{
-    margin: auto;
-    column-count: 2;
-}
-
-#sobre_mim div{
-    margin-top: 1vw;
-}
-
-
-#formacao{
-    background-color: white;
-    height: 50vw;
-    width: 99vw;
-}
-
-/*
-#experiencia{
-    height: 50vw;
-    width: 100vw;
-}
-
-#contato{
-    height: 50vw;
-    width: 100vw;
-}
-*/
